@@ -1,1 +1,3 @@
-Apk App with html content coding
+#Apk app with html content coding
+
+##1. Cloning Project
