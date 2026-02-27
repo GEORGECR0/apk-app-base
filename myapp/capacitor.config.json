@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.myapp",
+  "appName": "Comet Client",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
