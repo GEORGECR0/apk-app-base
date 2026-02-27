@@ -26,7 +26,7 @@ cd android
 ```
 
 
-#How set up landspace mode
+# How set up landspace mode
 
 ### PATH:
 ```ruby
